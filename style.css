@@ -1,0 +1,78 @@
+
+body {
+    background-color: #22272b;
+}
+
+.navbar {
+    background-color: #22272b;
+    padding: 10px;
+}
+
+.navbar .nav-link {
+    color: white;
+}
+
+.navbar .active {
+    background-color: #0d6efd;
+    color: white;
+}
+
+.navbar-collapse {
+    justify-content: space-between;
+}
+
+.heading {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.background {
+    background-image: url(https://obmontessori.orangeapps.ph/landing/obmontessori/images/laspinas.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+}
+
+.box {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.form-column .box {
+    padding: 20px;
+}
+
+.contact-heading {
+    background-color: #0d6efd;
+    padding: 10px;
+}
+
+.content {
+    padding: 15px;
+}
+
+.content p {
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.form-select {
+    margin-bottom: 10px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: #22272b;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    width: 70px;
+}
